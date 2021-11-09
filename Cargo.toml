@@ -1,11 +1,19 @@
 [package]
 name = "roaes"
-description = "library"
+description = "Rust implementation of openaes file format."
 version = "0.1.0"
-edition = "2018"
 authors = ["moschroe"]
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+edition = "2018"
+license = "BSD-3-Clause"
+keywords = ["openaes", "TWRP", "android"]
+categories = ["command-line-utilities", "parser-implementations"]
+repository = "https://github.com/moschroe/roaes"
+include = [
+    "src/**/*.rs",
+    "Cargo.toml",
+    "README.md",
+    "LICENSE"
+]
 
 [dependencies]
 aes = "0.7.5"
