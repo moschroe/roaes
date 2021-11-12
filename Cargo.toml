@@ -6,7 +6,7 @@ authors = ["moschroe"]
 edition = "2018"
 license = "BSD-3-Clause"
 keywords = ["openaes", "TWRP", "android"]
-categories = ["command-line-utilities", "parser-implementations"]
+categories = ["command-line-utilities", "parser-implementations", "cryptography"]
 repository = "https://github.com/moschroe/roaes"
 include = [
     "src/**/*.rs",
