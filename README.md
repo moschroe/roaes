@@ -1,6 +1,8 @@
 roaes
 -----
 
+_Disclaimer: Neither this project, nor the author, are in any way associated with Team Win or Team Win Recovery Project (TWRP). No infringement on or claim over the aforementioned terms is made or intended._
+
 ### Library
 
 Library implementing the openaes standard used by the [Team Win Recovery Project (TWRP)][1], as of 2018-08-24.
